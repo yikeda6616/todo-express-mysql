@@ -1,0 +1,9 @@
+{
+  "name": "todo-express-mongo",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/yikeda6616/todo-express-mongo.git",
+  "author": "Yasushi Ikeda <yikeda6616@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
