@@ -9,7 +9,7 @@
     "typeorm": "ts-node ./node_modules/.bin/typeorm --config ormconfig"
   },
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "mysql": "^2.17.1",
     "source-map-support": "^0.5.12",
     "typeorm": "^0.2.17"
